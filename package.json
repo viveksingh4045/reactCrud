@@ -1,0 +1,21 @@
+{
+  "name": "shriram_source",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^2.7.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.7.4",
+    "react": "^16.10.2",
+    "react-router": "^5.1.2",
+    "react-router-dom": "^5.1.2"
+  }
+}

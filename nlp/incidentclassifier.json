@@ -1,0 +1,487 @@
+{
+    "classifier": {
+        "classFeatures": {
+            "Please contact GDW": {
+                "4": 3,
+                "5": 3,
+                "6": 2,
+                "7": 2,
+                "8": 2
+            },
+            "Please contact CBS": {
+                "6": 2,
+                "7": 2,
+                "9": 2,
+                "10": 3,
+                "11": 2
+            },
+            "Please contact OCIS": {
+                "6": 2,
+                "7": 2,
+                "12": 3,
+                "13": 2
+            },
+            "Please contact ITS": {
+                "14": 2,
+                "15": 2
+            },
+            "Please restart the service": {
+                "16": 2
+            },
+            "something broken": {
+                "17": 5
+            },
+            "qqqqqqqqqqqqqqq": {
+                "18": 2
+            },
+            "dd": {
+                "19": 2
+            },
+            "ss": {
+                "20": 2
+            },
+            "Team view not woorking": {
+                "21": 2,
+                "22": 2
+            },
+            "ddddddddddddddddd": {
+                "20": 2
+            },
+            "sss": {
+                "19": 2
+            },
+            "Indeed": {
+                "21": 2,
+                "23": 2,
+                "24": 2
+            },
+            "TrialClose": {
+                "25": 2
+            },
+            "NA": {
+                "26": 2,
+                "27": 2,
+                "28": 2
+            },
+            "Please check the Product Cross Reference and the Bank Code. This error occurs, when they are not mapped": {
+                "1": 2,
+                "10": 2,
+                "11": 2,
+                "29": 2,
+                "30": 2,
+                "31": 2,
+                "32": 2
+            },
+            "Account must be having a prohibitive indicator set; please check if Indicator 15 is set to an account.": {
+                "0": 2,
+                "10": 2,
+                "11": 2,
+                "29": 2,
+                "30": 2,
+                "33": 2,
+                "34": 2
+            },
+            "It was observed that at the time the transaction was fired, the Environment was in Unconsolidated processing mode which doesnt allow certain Transactions. Kindly retry after some time.": {
+                "3": 2,
+                "9": 2,
+                "10": 2,
+                "11": 2,
+                "16": 2,
+                "35": 2,
+                "36": 2,
+                "37": 2,
+                "38": 2,
+                "39": 2,
+                "40": 2,
+                "41": 2
+            },
+            "It can be seen on the logs that the Program was not Present in the Supur file. Kindly do full SUPUR; this should rectify the issue.": {
+                "11": 2,
+                "37": 2,
+                "42": 2,
+                "43": 2,
+                "44": 2,
+                "45": 2,
+                "46": 2,
+                "47": 2,
+                "48": 2
+            },
+            "Kindly update the Hyper settings and update the hands off message in the Hyper element.": {
+                "8": 2,
+                "13": 2,
+                "36": 2,
+                "49": 2,
+                "50": 2,
+                "51": 2,
+                "52": 2,
+                "53": 2
+            },
+            "The API doesnt have the ePortal Compatible Indicator Set. Kindly update the Reference Data and re-run the Application": {
+                "2": 2,
+                "16": 2,
+                "30": 2,
+                "36": 2,
+                "54": 2,
+                "55": 2
+            },
+            "Salary advance can only be applied thrice in a financial year. You have already applied and availed thrice.": {
+                "29": 2,
+                "30": 2,
+                "39": 2,
+                "40": 2,
+                "56": 2,
+                "57": 2,
+                "58": 2,
+                "59": 2,
+                "60": 2,
+                "61": 2
+            }
+        },
+        "classTotals": {
+            "Please contact GDW": 4,
+            "Please contact CBS": 3,
+            "Please contact OCIS": 3,
+            "Please contact ITS": 3,
+            "Please restart the service": 2,
+            "something broken": 5,
+            "qqqqqqqqqqqqqqq": 2,
+            "dd": 2,
+            "ss": 2,
+            "Team view not woorking": 2,
+            "ddddddddddddddddd": 2,
+            "sss": 2,
+            "Indeed": 2,
+            "TrialClose": 2,
+            "NA": 2,
+            "Please check the Product Cross Reference and the Bank Code. This error occurs, when they are not mapped": 2,
+            "Account must be having a prohibitive indicator set; please check if Indicator 15 is set to an account.": 2,
+            "It was observed that at the time the transaction was fired, the Environment was in Unconsolidated processing mode which doesnt allow certain Transactions. Kindly retry after some time.": 2,
+            "It can be seen on the logs that the Program was not Present in the Supur file. Kindly do full SUPUR; this should rectify the issue.": 2,
+            "Kindly update the Hyper settings and update the hands off message in the Hyper element.": 2,
+            "The API doesnt have the ePortal Compatible Indicator Set. Kindly update the Reference Data and re-run the Application": 2,
+            "Salary advance can only be applied thrice in a financial year. You have already applied and availed thrice.": 2
+        },
+        "totalExamples": 31,
+        "smoothing": 1
+    },
+    "docs": [
+        {
+            "label": "Please contact GDW",
+            "text": [
+                "histor",
+                "transact",
+                "data",
+                "manag",
+                "gdw"
+            ]
+        },
+        {
+            "label": "Please contact CBS",
+            "text": [
+                "balanc",
+                "account",
+                "data",
+                "manag",
+                "cb"
+            ]
+        },
+        {
+            "label": "Please contact OCIS",
+            "text": [
+                "custom",
+                "data",
+                "manag",
+                "oci"
+            ]
+        },
+        {
+            "label": "Please contact OCIS",
+            "text": [
+                "custom"
+            ]
+        },
+        {
+            "label": "Please contact CBS",
+            "text": [
+                "account"
+            ]
+        },
+        {
+            "label": "Please contact GDW",
+            "text": [
+                "histor"
+            ]
+        },
+        {
+            "label": "Please contact GDW",
+            "text": [
+                "transact"
+            ]
+        },
+        {
+            "label": "Please contact ITS",
+            "text": [
+                "infrastructur"
+            ]
+        },
+        {
+            "label": "Please contact ITS",
+            "text": [
+                "hardwar"
+            ]
+        },
+        {
+            "label": "Please restart the service",
+            "text": [
+                "api"
+            ]
+        },
+        {
+            "label": "something broken",
+            "text": [
+                "test1234"
+            ]
+        },
+        {
+            "label": "something broken",
+            "text": [
+                "test1234"
+            ]
+        },
+        {
+            "label": "qqqqqqqqqqqqqqq",
+            "text": [
+                "wwwwwwwwwwwww"
+            ]
+        },
+        {
+            "label": "something broken",
+            "text": [
+                "test1234"
+            ]
+        },
+        {
+            "label": "dd",
+            "text": [
+                "sss"
+            ]
+        },
+        {
+            "label": "ss",
+            "text": [
+                "ss"
+            ]
+        },
+        {
+            "label": "Team view not woorking",
+            "text": [
+                "team",
+                "viewer"
+            ]
+        },
+        {
+            "label": "something broken",
+            "text": [
+                "test1234"
+            ]
+        },
+        {
+            "label": "ddddddddddddddddd",
+            "text": [
+                "ss"
+            ]
+        },
+        {
+            "label": "sss",
+            "text": [
+                "sss"
+            ]
+        },
+        {
+            "label": "Indeed",
+            "text": [
+                "ninja",
+                "team",
+                "pathet"
+            ]
+        },
+        {
+            "label": "TrialClose",
+            "text": [
+                "addinc1"
+            ]
+        },
+        {
+            "label": "NA",
+            "text": [
+                "trial",
+                "check",
+                "edit"
+            ]
+        },
+        {
+            "label": "Please check the Product Cross Reference and the Bank Code. This error occurs, when they are not mapped",
+            "text": [
+                "get",
+                "cb",
+                "error",
+                "1626",
+                "open",
+                "new",
+                "account"
+            ]
+        },
+        {
+            "label": "Account must be having a prohibitive indicator set; please check if Indicator 15 is set to an account.",
+            "text": [
+                "get",
+                "cb",
+                "error",
+                "615",
+                "ad",
+                "fund",
+                "account"
+            ]
+        },
+        {
+            "label": "It was observed that at the time the transaction was fired, the Environment was in Unconsolidated processing mode which doesnt allow certain Transactions. Kindly retry after some time.",
+            "text": [
+                "cb",
+                "enquiri",
+                "api",
+                "fail",
+                "9001",
+                "failur",
+                "code",
+                "not",
+                "abl",
+                "view",
+                "account",
+                "balanc"
+            ]
+        },
+        {
+            "label": "It can be seen on the logs that the Program was not Present in the Supur file. Kindly do full SUPUR; this should rectify the issue.",
+            "text": [
+                "cb",
+                "batch",
+                "failur",
+                "sybx06",
+                "program",
+                "note",
+                "product",
+                "load",
+                "file"
+            ]
+        },
+        {
+            "label": "Kindly update the Hyper settings and update the hands off message in the Hyper element.",
+            "text": [
+                "oci",
+                "hyper",
+                "gdw",
+                "fail",
+                "no",
+                "hand",
+                "off",
+                "provid"
+            ]
+        },
+        {
+            "label": "The API doesnt have the ePortal Compatible Indicator Set. Kindly update the Reference Data and re-run the Application",
+            "text": [
+                "eport",
+                "api",
+                "e615",
+                "fail",
+                "error",
+                "6576"
+            ]
+        },
+        {
+            "label": "Salary advance can only be applied thrice in a financial year. You have already applied and availed thrice.",
+            "text": [
+                "not",
+                "abl",
+                "appli",
+                "salari",
+                "advanc",
+                "get",
+                "error",
+                "max",
+                "attempt",
+                "exhaust"
+            ]
+        }
+    ],
+    "features": {
+        "615": 1,
+        "1626": 1,
+        "6576": 1,
+        "9001": 1,
+        "histor": 2,
+        "transact": 2,
+        "data": 3,
+        "manag": 3,
+        "gdw": 2,
+        "balanc": 2,
+        "account": 5,
+        "cb": 5,
+        "custom": 2,
+        "oci": 2,
+        "infrastructur": 1,
+        "hardwar": 1,
+        "api": 3,
+        "test1234": 4,
+        "wwwwwwwwwwwww": 1,
+        "sss": 2,
+        "ss": 2,
+        "team": 2,
+        "viewer": 1,
+        "ninja": 1,
+        "pathet": 1,
+        "addinc1": 1,
+        "trial": 1,
+        "check": 1,
+        "edit": 1,
+        "get": 3,
+        "error": 4,
+        "open": 1,
+        "new": 1,
+        "ad": 1,
+        "fund": 1,
+        "enquiri": 1,
+        "fail": 3,
+        "failur": 2,
+        "code": 1,
+        "not": 2,
+        "abl": 2,
+        "view": 1,
+        "batch": 1,
+        "sybx06": 1,
+        "program": 1,
+        "note": 1,
+        "product": 1,
+        "load": 1,
+        "file": 1,
+        "hyper": 1,
+        "no": 1,
+        "hand": 1,
+        "off": 1,
+        "provid": 1,
+        "eport": 1,
+        "e615": 1,
+        "appli": 1,
+        "salari": 1,
+        "advanc": 1,
+        "max": 1,
+        "attempt": 1,
+        "exhaust": 1
+    },
+    "stemmer": {},
+    "lastAdded": 30,
+    "events": {
+        "_events": {},
+        "_eventsCount": 0
+    }
+}
